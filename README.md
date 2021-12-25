@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a musician/artist and aspiring programmer looking to combine these worlds with other collaborators. Hit me up at davidbekic@gmail.com
 <!--
 **davidbekic/davidbekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
