@@ -1,6 +1,12 @@
 ## Hi there 👋
 Student at 42 Barcelona.
 
+### My Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI2a25vemM2Zjd3OXRwdzI1ZjNnMXZlNnpsYmd5MDZrdDh3eWlhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="50">:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelR1099&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidbekic&layout=compact&theme=dark)
+
 <!--
 **davidbekic/davidbekic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
